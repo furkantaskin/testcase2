@@ -1,6 +1,6 @@
 # testcase2
 
-<img src="https://img.shields.io/github/last-commit/furkantaskin/testcase2"> <img src="https://img.shields.io/github/languages/count/furkantaskin/testcase2"> <img src="https://img.shields.io/github/v/release/tailwindlabs/tailwindcss?label=Tailwind"> <img src="https://img.shields.io/github/v/release/DataTables/DataTables?label=DataTables"> 
+<img src="https://img.shields.io/github/last-commit/furkantaskin/testcase2"> <img src="https://img.shields.io/github/languages/count/furkantaskin/testcase2"> <img src="https://img.shields.io/github/v/release/tailwindlabs/tailwindcss?label=Tailwind"> <img src="https://img.shields.io/badge/DataTables-2.2.3-blue"> 
 
 JS Files for the test case of Baykar
 
